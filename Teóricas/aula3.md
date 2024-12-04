@@ -36,3 +36,8 @@
 - Por fim, a satisfação mede a reação subjetiva dos utilizadores, em relação à experiência proporcionada pelo sistema;
 
 ## 3. Ideation
+- `Ideation`(inovação) não começa com uma ideia; ideias surgem ao entender as necessidades do cliente e iterar no processo;
+- `Qualidade vs Quantidade`: Trabalhos de maior qualidade vêm da experimentação contínua e aprendizado com erros;
+- `Design Sprints`: Métodos ágil para gerar e testar ideias rapidamente;
+- `Crazy 8`: Técnica onde cada elemento cria 8 ideias em 8 minutos, incentivando variedade e inovação.
+
