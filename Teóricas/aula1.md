@@ -108,7 +108,7 @@ Ex: Sketches, Wireframea, Mockups, Prototypes.
     2. Engenharia de Software 
     3. Marketing 
     4. Design
-
+        
 2. O que define a Experiência do Utilizador (UX)?
     1. Apenas a interação direta com um artefacto.  
     2. A parte visível de um sistema, como a interface gráfica.  

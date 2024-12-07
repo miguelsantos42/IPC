@@ -137,3 +137,152 @@ O PACT(People,Activities,Context,Technologies) é uma abordagem que organiza a a
   Exemplo de Contexto:
   - Um sistema projetado para um ambiente barulhento (contexto físico) deve priorizar saídas visuais claras.
   - Tarefas colaborativas exigem comunicação fluida (contexto social).
+
+# Perguntas
+## Sobre o Resumo
+
+1. Qual é o papel principal dos stakeholders no Interaction Design?  
+    1. Realizar a pesquisa de usuários.  
+    2. Definir as motivações iniciais do projeto e apontar para requisitos de alto nível.  
+    3. Projetar e iterar sobre interfaces.  
+    4. Monitorar as atividades dos designers.  
+
+2. O que caracteriza o Ciclo de Design Iterativo?  
+    1. Um processo sequencial que não permite revisões.  
+    2. Um ciclo contínuo de análise, concepção, prototipagem e avaliação com foco no usuário.  
+    3. Um processo exclusivo para prototipagem de alta fidelidade.  
+    4. Uma abordagem voltada apenas às necessidades dos stakeholders.  
+
+3. Quem são os usuários no contexto da HCI?  
+    1. Apenas os que compram a aplicação.  
+    2. Os desenvolvedores que criam o produto.  
+    3. Aqueles que utilizam o produto e possuem necessidades e expectativas específicas.  
+    4. Apenas os designers envolvidos no projeto.  
+
+4. Qual dos seguintes não é um tipo de diferença individual que pode impactar a experiência do usuário?  
+    1. Diferenças culturais.  
+    2. Diferenças físicas.  
+    3. Diferenças na escolha de cores do design.  
+    4. Diferenças de motivação e atitude.  
+
+5. Qual das seguintes alternativas caracteriza o usuário iniciante?  
+    1. Não possui medo de falhar.  
+    2. Foca em modelos mentais amplos e teorias.  
+    3. Realiza tarefas necessárias e possui medo de falhar.  
+    4. Gera soluções inovadoras e empurra o sistema ao limite.  
+
+6. Qual das seguintes caracterizações pertence à abordagem informal de análise de tarefas?  
+    1. Lista estruturada de tarefas ou diagrama de fluxo.  
+    2. Ideal para sistemas existentes com processos bem definidos.  
+    3. Abordagem exploratória para descobrir as necessidades dos usuários.  
+    4. Estruturação formal para otimizar processos complexos.  
+
+7. O que é característico de pesquisas qualitativas no contexto de User Research?  
+    1. Focam em dados numéricos e quantificáveis.  
+    2. Fornecem informações subjetivas e observacionais sobre a experiência do usuário.  
+    3. Dependem exclusivamente de métodos automatizados de coleta de dados.  
+    4. Visam apenas medir tempos para completar tarefas.  
+
+8. Qual é o principal objetivo da etimologia no User Research?  
+    1. Desenvolver sistemas que se alinhem aos contextos culturais dos designers.  
+    2. Entender profundamente uma cultura e como as ações se encaixam no contexto cultural.  
+    3. Identificar erros de design através de ferramentas de prototipagem.  
+    4. Avaliar soluções tecnológicas com base em dados quantitativos.  
+
+9. O que é o PACT no contexto de User Research?  
+    1. Um método exclusivo para desenvolver hardware.  
+    2. Uma abordagem que organiza a análise e o design centrado no usuário, considerando Pessoas, Atividades, Contexto e Tecnologias.  
+    3. Uma ferramenta para gerar wireframes automáticos.  
+    4. Um framework para avaliar soluções tecnológicas de mercado.  
+
+10. Qual é um exemplo de como o contexto influencia o design?  
+    1. Um sistema projetado para um ambiente barulhento prioriza saídas visuais claras.  
+    2. Tarefas colaborativas ignoram a comunicação fluida entre os usuários.  
+    3. O contexto social é irrelevante para tarefas colaborativas.  
+    4. Sistemas em ambientes barulhentos devem priorizar feedback sonoro.  
+
+### Respostas:
+1. 2  
+2. 2  
+3. 3  
+4. 3  
+5. 3  
+6. 3  
+7. 2  
+8. 2  
+9. 2  
+10. 1  
+
+## Sobre o PowerPoint
+
+1. Um designer está a criar uma interface para um novo sistema de gestão hospitalar. Qual das seguintes opções demonstra melhor a aplicação do princípio "O utilizador não é como eu"?  
+    1. O designer cria a interface com base na sua própria experiência como paciente em hospitais.  
+    2. O designer entrevista médicos, enfermeiros e pessoal administrativo para compreender as suas necessidades e fluxos de trabalho.  
+    3. O designer pesquisa interfaces de sistemas de gestão hospitalar existentes e copia os elementos mais comuns.  
+    4. O designer prioriza a estética visual da interface em detrimento da usabilidade.  
+
+2. Qual dos seguintes métodos NÃO é normalmente utilizado em pesquisa de utilizadores em HCI?  
+    1. Questionários online.  
+    2. Entrevistas com utilizadores.  
+    3. Análise de dados de vendas.  
+    4. Testes de usabilidade.  
+
+3. O que é a etnografia no contexto da HCI?  
+    1. Um método de pesquisa que envolve a observação de utilizadores em ambientes controlados.  
+    2. Um método de pesquisa que visa compreender a cultura e as práticas dos utilizadores em profundidade.  
+    3. Um método de design que se concentra na criação de interfaces esteticamente agradáveis.  
+    4. Um método de desenvolvimento de software que prioriza a rapidez e a eficiência.  
+
+4. No framework PACT (Pessoas, Atividades, Contexto, Tecnologias), qual dos seguintes aspetos seria considerado no elemento "Contexto"?  
+    1. A idade, o género e as capacidades físicas dos utilizadores.  
+    2. As tarefas que os utilizadores precisam de realizar com o sistema.  
+    3. O ambiente físico e social onde o sistema será utilizado.  
+    4. As tecnologias de hardware e software que serão usadas para construir o sistema.  
+
+5. Qual das seguintes afirmações sobre prototipagem em HCI é FALSA?  
+    1. Os protótipos podem ser de baixa ou alta fidelidade.  
+    2. A prototipagem permite testar e iterar sobre designs antes da implementação final.  
+    3. Os protótipos devem ser perfeitos e completos antes de serem testados com utilizadores.  
+    4. A prototipagem ajuda a identificar problemas de usabilidade precocemente no processo de design.  
+
+6. No contexto do design de interfaces, o que significa "affordance"?  
+    1. A facilidade com que um utilizador aprende a usar um sistema.  
+    2. As propriedades visuais de um objeto que sugerem como ele pode ser usado.  
+    3. A satisfação emocional que um utilizador sente ao usar um sistema.  
+    4. A capacidade de um sistema de se adaptar a diferentes utilizadores.  
+
+7. Qual dos seguintes NÃO é um objetivo da análise de tarefas em HCI?  
+    1. Identificar as tarefas que os utilizadores precisam de realizar.  
+    2. Compreender os passos envolvidos na realização de cada tarefa.  
+    3. Avaliar a eficiência e a usabilidade das tarefas existentes.  
+    4. Determinar o orçamento necessário para desenvolver o sistema.  
+
+8. O que é um modelo mental no contexto da HCI?  
+    1. A representação mental que um utilizador tem de como um sistema funciona.  
+    2. Um diagrama que mostra a estrutura de um sistema de software.  
+    3. Um conjunto de diretrizes para o design de interfaces.  
+    4. Uma linguagem de programação usada para desenvolver interfaces.  
+
+9. Qual das seguintes opções NÃO é um benefício do design centrado no utilizador (UCD)?  
+    1. Maior satisfação do utilizador.  
+    2. Maior probabilidade de o sistema ser bem-sucedido.  
+    3. Menor custo de desenvolvimento.  
+    4. Maior usabilidade do sistema.  
+
+10. Qual das seguintes opções descreve melhor a filosofia "Fail Fast, Fail Early, Fail Often" (Falhe Rápido, Falhe Cedo, Falhe Frequentemente) em HCI?  
+    1. Encorajar os designers a evitar erros a todo o custo.  
+    2. Aprender com os erros e iterar rapidamente sobre os designs.  
+    3. Esconder os erros dos utilizadores para evitar frustração.  
+    4. Lançar produtos inacabados para o mercado o mais rápido possível.  
+
+### Respostas:
+1. 2  
+2. 3  
+3. 2  
+4. 3  
+5. 3  
+6. 2  
+7. 4  
+8. 1  
+9. 3  
+10. 2  
