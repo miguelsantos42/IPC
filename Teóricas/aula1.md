@@ -2,9 +2,9 @@
 
 ## 1. Interação Pessoa Computador (HCI)
 
-- **O que estuda?**: A HCI examina a interação entre humanos e computadores, analisando como os usuários utilizam e interagem com sistemas tecnológicos.
-- **Objetivos**: Tornar a tecnologia acessível, intuitiva e eficaz para os usuários.
-- **Interfaces-**: Pontos de interação entre o usuários e o sistema, como telas, botões, menus, e até alguns elementos não visuais como o feedback sonoro ou tátil.
+- **O que estuda?**: A HCI examina a interação entre humanos e computadores, analisando como os utilizadores utilizam e interagem com sistemas tecnológicos.
+- **Objetivos**: Tornar a tecnologia acessível, intuitiva e eficaz para os utilizadores.
+- **Interfaces-**: Pontos de interação entre o utilizadores e o sistema, como telas, botões, menus, e até alguns elementos não visuais como o feedback sonoro ou tátil.
 
 
 
