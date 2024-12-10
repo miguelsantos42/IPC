@@ -19,7 +19,7 @@
 - Adicionam interatividade, como links clicáveis;
 - Permitem interações mais complexas, mas sem programação real;
 
-4. **Prototipagem Funcional**
+4. **Functional Prototyping**
 - Implementa partes da lógica funcional;
 - Pode ser em plataformas finais ou protótipos rápidos, com versões de alta ou baixa fidelidade;
 - Usada para Prototipar partes específicas ou o sistema como um todo;
