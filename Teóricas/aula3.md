@@ -31,7 +31,7 @@
 
 ### 3.Usability Requirements
 - Os `Usability Requirements` são usados para avaliar a facilidade de uso do sistema, considerando a eficácia, eficiência e a satisfação dos utilizadores;
-- A eficácia refere-se à qualidade com que o utilziador alcança os objetivos no sistema;
+- A eficácia refere-se à qualidade com que o utilizador alcança os objetivos no sistema;
 - A eficiência está relacionada aos recursos gastos pelo utilizador para atingir esses objetivos;
 - Por fim, a satisfação mede a reação subjetiva dos utilizadores, em relação à experiência proporcionada pelo sistema;
 
