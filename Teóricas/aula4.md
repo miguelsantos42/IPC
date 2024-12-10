@@ -130,16 +130,16 @@
     c) Testar e validar ideias de design com os utilizadores de forma rápida e económica.  
     d) Definir a identidade visual do sistema, como cores, tipografia e layout.  
 
-2. **Os utilizadores podem ter dificuldade em expressar as suas necessidades e desejos em relação a um sistema. Qual das seguintes afirmações sobre prototipagem é verdadeira neste contexto?**  
-    a) A prototipagem permite aos utilizadores experimentar ideias de design concretas e fornecer feedback mais preciso.  
-    b) A prototipagem só é útil em fases avançadas do desenvolvimento, quando o sistema já está quase finalizado.  
-    c) A prototipagem deve ser evitada, pois confunde os utilizadores e atrasa o processo de design.  
-    d) A prototipagem é uma técnica dispendiosa e complexa, que requer ferramentas e software especializados.  
+2. **Os utilizadores podem ter dificuldade em expressar as suas necessidades e desejos em relação a um sistema. Qual das seguintes afirmações sobre prototyping é verdadeira neste contexto?**  
+    a) A prototyping permite aos utilizadores experimentar ideias de design concretas e fornecer feedback mais preciso.  
+    b) A prototyping só é útil em fases avançadas do desenvolvimento, quando o sistema já está quase finalizado.  
+    c) A prototyping deve ser evitada, pois confunde os utilizadores e atrasa o processo de design.  
+    d) A prototyping é uma técnica dispendiosa e complexa, que requer ferramentas e software especializados.  
 
 3. **"Storyboards" e "Bodystorming" são exemplos de que tipo de técnica de prototipagem?**  
-    a) Prototipagem de baixa fidelidade  
-    b) Prototipagem de alta fidelidade  
-    c) Prototipagem funcional  
+    a) Prototyping de baixa fidelidade  
+    b) Prototyping de alta fidelidade  
+    c) Prototyping funcional  
     d) Técnicas experienciais  
 
 4. **Na técnica "Wizard of Oz", como são simuladas as funcionalidades do sistema?**  
@@ -148,13 +148,13 @@
     c) Através de animações e efeitos visuais que criam a ilusão de um sistema funcional.  
     d) Com recurso a prototipagem em papel, onde o utilizador manipula elementos físicos.  
 
-5. **Qual a diferença entre prototipagem horizontal e vertical?**  
-    a) A prototipagem horizontal foca-se na interface, enquanto a vertical aborda a funcionalidade do sistema.  
-    b) A prototipagem horizontal apresenta um sistema completo com pouca profundidade, enquanto a vertical foca-se em partes específicas com maior detalhe.  
-    c) A prototipagem horizontal utiliza software de alta fidelidade, enquanto a vertical recorre a materiais de baixa fidelidade.  
-    d) A prototipagem horizontal destina-se a testes com utilizadores, enquanto a vertical é utilizada para demonstrações a stakeholders.  
+5. **Qual a diferença entre prototyping horizontal e vertical?**  
+    a) A prototyping horizontal foca-se na interface, enquanto a vertical aborda a funcionalidade do sistema.  
+    b) A prototyping horizontal apresenta um sistema completo com pouca profundidade, enquanto a vertical foca-se em partes específicas com maior detalhe.  
+    c) A prototyping horizontal utiliza software de alta fidelidade, enquanto a vertical recorre a materiais de baixa fidelidade.  
+    d) A prototyping horizontal destina-se a testes com utilizadores, enquanto a vertical é utilizada para demonstrações a stakeholders.  
 
-6. **Quais as vantagens da prototipagem de baixa fidelidade, como a prototipagem em papel?**  
+6. **Quais as vantagens da prototyping de baixa fidelidade, como a prototyping em papel?**  
     a) Permite criar protótipos detalhados e realistas que representam fielmente o sistema final.  
     b) É rápida, económica e facilita a iteração sobre ideias de design, permitindo descartar soluções inadequadas precocemente.  
     c) Requer o uso de software especializado e conhecimentos avançados de programação.  
@@ -172,13 +172,13 @@
     c) Figma  
     d) Notepad++  
 
-9. **Protótipos funcionais implementam parte da lógica e das funcionalidades do sistema. Qual a principal vantagem deste tipo de prototipagem?**  
+9. **Protótipos funcionais implementam parte da lógica e das funcionalidades do sistema. Qual a principal vantagem deste tipo de prototyping?**  
     a) Permite avaliar o aspeto visual do sistema e a sua identidade visual.  
     b) É uma técnica económica e rápida para criar protótipos descartáveis.  
     c) Permite testar a interação com o sistema de forma mais realista e avaliar a usabilidade das funcionalidades.  
     d) É ideal para apresentar o sistema a stakeholders e investidores, criando uma impressão profissional.  
 
-10. **De acordo com os seus documentos fornecidos, qual das seguintes ferramentas NÃO é recomendada para prototipagem?**  
+10. **De acordo com os seus documentos fornecidos, qual das seguintes ferramentas NÃO é recomendada para prototyping?**  
     a) Marvel App  
     b) Quant-UX  
     c) Microsoft Excel  
