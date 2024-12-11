@@ -109,3 +109,84 @@ Os dados passam por etapas:
 8. a) Post-its  
 9. b) Abordagens emergentes surgem dos dados, enquanto estruturadas utilizam códigos predefinidos.  
 10. c) Representam apenas a frequência de palavras, sem análise de conteúdo.
+
+## Sobre os Slides:
+
+1. **Qual das seguintes NÃO é uma característica dos dados qualitativos?**
+   - a) Descritivos
+   - b) Explicativos
+   - c) Numéricos
+   - d) Não numéricos
+
+2. **Qual é a principal limitação das nuvens de palavras na análise de dados qualitativos?**
+   - a) Dificuldade de produção
+   - b) Representação apenas da frequência das palavras
+   - c) Falta de análise de conteúdo
+   - d) Incapacidade de lidar com grandes conjuntos de dados
+
+3. **Na análise temática, qual é a relação entre códigos e temas?**
+   - a) Os códigos são subconjuntos dos temas
+   - b) Os temas são subconjuntos dos códigos
+   - c) Os códigos e os temas são independentes
+   - d) Os códigos e os temas são sinónimos
+
+4. **Qual das seguintes é uma abordagem de codificação na análise temática?**
+   - a) Linear
+   - b) Circular
+   - c) Emergente
+   - d) Divergente
+
+5. **Quando é mais apropriado usar a abordagem de codificação "estruturada" na análise temática?**
+   - a) Quando o investigador não tem ideias pré-concebidas sobre os dados
+   - b) Quando os dados são muito complexos e diversificados
+   - c) Quando existe uma lista de conceitos-chave predefinidos
+   - d) Quando se pretende descobrir novas perspetivas e insights
+
+6. **Qual é o objetivo principal dos diagramas de afinidade?**
+   - a) Organizar os dados cronologicamente
+   - b) Identificar relações causais entre os dados
+   - c) Criar um número limitado de temas a partir de uma grande quantidade de dados
+   - d) Visualizar a distribuição de frequência de diferentes códigos
+
+7. **Qual das seguintes NÃO é uma técnica de análise qualitativa utilizada em HCI?**
+   - a) Análise de sentimentos
+   - b) Análise fatorial
+   - c) Análise de regressão
+   - d) Análise temática
+
+8. **Qual é um desafio importante na análise qualitativa?**
+   - a) A falta de ferramentas de software adequadas
+   - b) A dificuldade em coletar dados suficientes
+   - c) A subjetividade inerente ao processo de análise
+   - d) A incapacidade de generalizar os resultados para uma população maior
+
+9. **Qual das seguintes medidas pode ajudar a garantir a fiabilidade dos resultados da análise qualitativa?**
+   - a) Usar apenas dados quantitativos
+   - b) Ter apenas um investigador a analisar os dados
+   - c) Triangulação de dados
+   - d) Evitar a utilização de software de análise
+
+10. **Como a análise qualitativa pode contribuir para o design de interfaces mais eficazes e centradas no utilizador?**
+    - a) Fornecendo insights sobre as necessidades e preferências dos utilizadores
+    - b) Eliminando a necessidade de testes de usabilidade
+    - c) Reduzindo o custo do desenvolvimento de software
+    - d) Garantindo que as interfaces sejam esteticamente agradáveis
+
+---
+
+### Respostas Corretas:
+1. c) Numéricos  
+2. c) Falta de análise de conteúdo  
+3. b) Os temas são subconjuntos dos códigos  
+4. c) Emergente  
+5. c) Quando existe uma lista de conceitos-chave predefinidos  
+6. c) Criar um número limitado de temas a partir de uma grande quantidade de dados  
+7. c) Análise de regressão  
+8. c) A subjetividade inerente ao processo de análise  
+9. c) Triangulação de dados  
+10. a) Fornecendo insights sobre as necessidades e preferências dos utilizadores
+
+
+
+
+
