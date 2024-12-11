@@ -1,6 +1,6 @@
 # 7. Qualitative Analysis
 
-A `análise qualitativa` é uma abordagem que utiliza dados não numéricos para compreender comportamentos, atitudes, motivações e experiências.
+A `Qualitative Analysis` é uma abordagem que utiliza dados não numéricos para compreender comportamentos, atitudes, motivações e experiências.
 
 **O que é dado qualitativa?**
 - **Dados não númericos**: Textos, imagens, aúdios e vídeos;
